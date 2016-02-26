@@ -1,4 +1,4 @@
-FROM zabbix-3.0:3.0.0
+FROM zabbix/zabbix-3.0:3.0.0
 
 ENV TZ=Asia/Tokyo
 
